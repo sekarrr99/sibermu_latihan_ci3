@@ -1,0 +1,3 @@
+user : id21562254_sekar
+pw : Nadia1234.
+db : id21562254_sekolah
